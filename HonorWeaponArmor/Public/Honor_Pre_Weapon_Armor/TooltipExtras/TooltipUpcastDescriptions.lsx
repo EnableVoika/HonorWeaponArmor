@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="10" build="100"/>
+    <region id="TooltipUpcastDescriptions">
+        <node id="root">
+            <children>
+                <node id="TooltipUpcastDescriptions">
+                    <attribute id="Name" type="FixedString" value="Additional target"/>
+                    <attribute id="Text" type="TranslatedString" handle="h197119b7gd9b8g447ag85a7g0b644154a825" version="1"/>
+                    <attribute id="UUID" type="guid" value="7fec3c4c-44cd-4ec1-8f4d-d344837a6405"/>
+                </node>
+                <node id="TooltipUpcastDescriptions">
+                    <attribute id="Name" type="FixedString" value="No benefit"/>
+                    <attribute id="Text" type="TranslatedString" handle="hd745a3c6g10a3g46ebgaaa3g725bd38f0b9f" version="1"/>
+                    <attribute id="UUID" type="guid" value="5b8f946b-d777-4819-9f2e-1d7b4f1ad302"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

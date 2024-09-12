@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+
+    <!-- 手套：钢铁军团的意志 -->
+    <content contentuid="h9df95b6eg096bg44f3g8571g3116d6c215c8" version="1">钢铁军团的毅志</content>
+    <content contentuid="h9df95b6eg096bg44f3g8571g3116d6c215c8" version="2">寒霜领主的手套</content>
+    <content contentuid="h3c0d4c0eg28afg46a0g8501gead82fca2814" version="1">钢铁军团战斗时使用的手套</content>
+    <content contentuid="h3c0d4c0eg28afg46a0g8501gead82fca2814" version="2">寒霜领主曾经使用过的手套</content>
+    <content contentuid="hd604a7f6g8f93g406cgb621g41d80fbe4980" version="1">钢铁军团，冲锋！</content>
+    <content contentuid="hd604a7f6g8f93g406cgb621g41d80fbe4980" version="2">寒霜领主的致意</content>
+    <!-- 钝击伤害就是直接写伤害值，不需要加属性 -->
+    <content contentuid="had681c7ag7feag4530g83aag36fb52874b38" version="1">你的徒手打击将额外加[1]攻击骰，同时额外造成[2]的伤害</content>
+    <content contentuid="hbe4bbc3ag790cg4260g96ddg64359a2157ee" version="1">元素侵袭</content>
+    <content contentuid="h19ee8157g337fg433fgbbbdg6255d1e5a920" version="1">徒手对敌人造成伤害时，还会对敌人额外造成[1]</content>
+    <content contentuid="h0b58f5acg0dadg47b2g875dg0386a85bd032" version="1">寒霜噬心</content>
+    <content contentuid="h089bdf08g4512g49efg886cg6d6607d8cb28" version="1">如果你成功霜噬了目标，那目标会额外受到[1]，并且对寒冷易伤</content>
+
+    <!-- 定制的可回旋长矛 -->
+    <content contentuid="h0bae1d3agf766g485eg9871g873fc6690d84" version="1">暴君鲁尼</content>
+    <content contentuid="h10896486g7b91g460cg97bfgd46c08f543d9" version="1">这把武器是暴君鲁尼曾经使用过的武器，上面沾染了不少的龙“血”</content>
+
+    <!-- 三叉戟鲁尼祝福 -->
+    <content contentuid="hbc29ea61g178dg47ccgad37g38e2c5d5e776" version="1">鲁尼的祝福</content>
+    <content contentuid="h16dda132g7050g40a9g866ag3161b8d9debb" version="1">你默认拥有三叉戟的熟练项</content>
+    <content contentuid="h4bcade46g5dc9g41dfgb830gaec72cf6fc77" version="1">鲁尼的电刑</content>
+    <content contentuid="hb02615a5g5ea2g4f7aga32fg7bee861ac9f8" version="1">鲁尼喜欢看着他的奴隶在电刑下跳舞，你的伤害额外造成[1]和[2]</content>
+    <content contentuid="h0e700354g78c3g4f89gafd8g1bc30560adbf" version="1">心智奴役</content>
+    <content contentuid="h8409b3eeg50feg44ddg9332gc7eaf343db5a" version="1">鲁尼对奴隶心智奴役，目标受到伤害后，需要进行一次感知豁免检定，否则每回1智力-1，持续3回合</content>
+    <content contentuid="hf0f8cc11g370ag42fag99b8gdc316cbe6994" version="1">心灵支配</content>
+    <content contentuid="h3252a329gaeb6g4de3gb66cgadf340746b07" version="1">鲁尼还会额外对目标造成[1]</content>
+
+    <!-- 长袍 -->
+    <content contentuid="h34555433g44d4g41ddg8f60ga2540b0fa5ae" version="1">戈尔的长袍</content>
+    <content contentuid="hac44bb84gc63ag471dg92c4g5337dbd5a052" version="1">曾经是费伦大陆唯一的传奇术士戈尔制作的长袍，专门用来应对各种各样的突发战斗</content>
+	<content contentuid="hd21a2752g4b62g4ec3gac97ga54ca466431a" version="1">&lt;LSTag Tooltip="SpellDifficultyClass"&gt;法术豁免难度等级&lt;/LSTag&gt;获得+ [1]的加值；法术&lt;LSTag Tooltip="AttackRoll"&gt;攻击掷骰&lt;/LSTag&gt;获得+ [2]的加值。</content>
+
+    <!-- 天生拳师 -->
+    <content contentuid="hcf7ed853gf40bg4a21g9404g68ab2d9f7c54" version="1">天生拳师2</content>
+    <content contentuid="h4f808fd5g7f18g4856g9910gc0638f0153b6" version="1">获得额外一个动作</content>
+
+    <!-- 啤酒馆暴动罪魁祸首 -->
+    <content contentuid="h271a75a9ga89bg4040gae98ga696d7e2af76" version="1">啤酒馆暴动罪魁祸首</content>
+    <content contentuid="h71de3506g087fg4ae4g9742gbd8ce3a1d01a" version="1">你的力量属性提升至27，并且获得酒馆殴斗者，代价就是可能觉得鼻子下面痒痒的。（好像要长胡子？）</content>
+
+    <!-- 千里奔袭 -->
+    <content contentuid="h72144afdg340ag420ega992gb89225eacf10" version="1">千里奔袭</content>
+    <content contentuid="h483a0fe0g4fffg43edg9f87g87c80b0dc254" version="1">提升[1]米移动力</content>
+
+    <!-- 猎杀·佐 -->
+    <content contentuid="he64be57cgf0ddg48b3gb30ag22e087170b08" version="1">猎杀·佐</content>
+    <content contentuid="hc5112200g9741g4be8g813cg80e562e92714" version="1">被打造出来的专门刺杀的武器，分为左右两个部分，这是佐</content>
+    <!-- 猎杀·佑 -->
+    <content contentuid="h87bd5df8g044fg45cfg9991g326d994ac76a" version="1">猎杀·佑</content>
+    <content contentuid="he14aab7dgfec9g4f18g9e85gbcc173564fb2" version="1">被打造出来的专门刺杀的武器，分为左右两个部分，这是佑</content>
+    
+	<content contentuid="hd745a3c6g10a3g46ebgaaa3g725bd38f0b9f" version="1">此法术的升环施法不会获得额外增益。</content>
+
+    <!-- 手套：无限手套 -->
+    <content contentuid="h1ac8565bgc4ecg49d6g927ag4bb610f12a8f" version="1">无限手套</content>
+    <content contentuid="h55fc073dg948fg4c39g96abge98610a3f11a" version="1">一个超级手套</content>
+    <content contentuid="h2c0f7ab8gfa39g4048gbc7fg42d3b51f6ed8" version="1">电击</content>
+    <content contentuid="h3c324e27g0702g40c1g9cb2g7ba4f4c44e95" version="1">额外造成[1]</content>
+
+    <!-- 给自己做的手套 -->
+    <content contentuid="hcc8fe11bgb5aeg4652ga600g12a5a26eb90d" version="1">迷雾手套</content>
+    <content contentuid="h72472d00g2a47g4b69g9acagd9fa8592e7d7" version="1">从迷雾之地锻炼出来的手套，魂武者的专属手套</content>
+
+    <!-- 龙爪 -->
+    <content contentuid="hcc8fe11bgb5aeg4652ga600g12a5a26eb90d" version="2">龙爪</content>
+    <content contentuid="h72472d00g2a47g4b69g9acagd9fa8592e7d7" version="2">用龙鳞打造出来的手套</content>
+
+    <!-- 迷雾战靴 -->
+    <content contentuid="hd80f950cgedcag4d95g83dcg1f417800ac79" version="1">迷雾战靴</content>
+    <content contentuid="haaf6dadcg28d0g46c6ga7a7g3702f75cdeff" version="1">从迷雾之地锻炼出来的战靴，魂武者的专属战靴</content>
+
+    <!-- 戈尔的手套 -->
+    <content contentuid="h612b7066g57b3g4140ga065g2fe1cf69dce1" version="1">戈尔手套</content>
+    <content contentuid="hd34ee61dg07fbg409agaf08g14ba865cf1a0" version="1">传奇术士戈尔的手套</content>
+
+    <!-- 箍龙项圈 -->
+    <content contentuid="h5fb45d93gbb3ag4dfcg91c2gd84b922568a4" version="1">箍龙项圈</content>
+    <content contentuid="hdb7d2078gdc04g42eegb4bag63b0efbb97f8" version="1">给予你力量的恶魔其实是想要你的灵魂，而给予你项圈的那个人则是想要你的全部。</content>
+
+    <!-- 苏哈辛 -->
+    <content contentuid="h9a5eedf2ga3f4g443fga22ag97955e5481e5" version="1">苏哈辛</content>
+    <content contentuid="h9a5eedf2ga3f4g443fga22ag97955e5481e5" version="2">Sohothin</content>
+    <content contentuid="hcb793e96g3654g4e32g81dbg221ee0da98d3" version="1">Sohothin是火焰与战争之神的传奇佩剑，马格戴尔的双子剑之一，遗留在阿斯卡隆的神器，只是现在他的火焰已经熄灭了，但你可以用自身作为魔法来源，重新点燃Sohothin。</content>
+
+    <!-- 迷雾缠绕 -->
+    <content contentuid="h272e8c27gb96bg41f5g8057g77ba16576443" version="1">迷雾缠绕</content>
+    <content contentuid="h8a0bced0g9978g4c3cg8088g431df5c7bb1b" version="1">迷雾收割者</content>
+    <content contentuid="h596aa96dg91d0g4efbgaae2g2c9cd0d25da2" version="1">迷雾使目标[1]，你对迷雾缠绕的目标必定造成重击。</content>
+    <content contentuid="h596aa96dg91d0g4efbgaae2g2c9cd0d25da2" version="2">你对迷雾致盲的目标必定造成重击。</content>
+    <content contentuid="h596aa96dg91d0g4efbgaae2g2c9cd0d25da2" version="3">你对迷雾致盲的目标必定造成重击。</content>
+    <content contentuid="h596aa96dg91d0g4efbgaae2g2c9cd0d25da2" version="4">迷雾使目标陷入迷雾致盲。</content>
+    <content contentuid="he210a30cg221bg4f38gaa7agcd9b19a37c84" version="1">你对迷雾致盲的目标必定造成重击。</content>
+
+    <!-- 不动如山 -->
+	<content contentuid="h52ddb40fg95eag402cg9464ga1febeed8ce1" version="1">不动如山</content>
+	<content contentuid="h7ce34ad7g8be5g4670g9afbg686d951eeedb" version="1">专注一道法术时，你不会陷入倒伏状态，也不会非自愿移动。</content>
+
+	<!-- 烈阳之矛的披风 -->
+	<content contentuid="h401db8a0g1742g4672ga09dg156ea8b8572b" version="1">烈阳之矛的披风</content>
+	<content contentuid="hd91266f7g1ed9g4f42g9a08g07c4551bf5a6" version="1">挺破但看起来还不错的披风。</content>
+
+</contentList>

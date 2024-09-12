@@ -1,0 +1,35 @@
+new entry "Trident_Proficiency_Passive"
+type "PassiveData"
+data "DisplayName" "hbc29ea61g178dg47ccgad37g38e2c5d5e776;1"
+data "Description" "h16dda132g7050g40a9g866ag3161b8d9debb;1"
+data "Boosts" "Proficiency(Tridents)"
+
+new entry "Trident_Proficiency_Passive_2"
+type "PassiveData"
+data "DisplayName" "h4bcade46g5dc9g41dfgb830gaec72cf6fc77;1"
+data "Description" "hb02615a5g5ea2g4f7aga32fg7bee861ac9f8;1"
+data "DescriptionParams" "10d20"
+data "Boosts" ""
+
+
+new entry "Trident_Proficiency_Passive_3"
+type "PassiveData"
+data "DisplayName" "h0e700354g78c3g4f89gafd8g1bc30560adbf;1"
+data "Description" "h8409b3eeg50feg44ddg9332gc7eaf343db5a;1"
+
+new entry "Trident_Proficiency_Passive_4"
+type "PassiveData"
+data "DisplayName" "hf0f8cc11g370ag42fag99b8gdc316cbe6994;1"
+data "Description" "h3252a329gaeb6g4de3gb66cgadf340746b07;1"
+data "DescriptionParams" "DealDamage(1d4,Psychic)"
+
+
+
+new entry "Rytlock_Sohothin_TheMists_Passive"
+type "PassiveData"
+data "DisplayName" "h8a0bced0g9978g4c3cg8088g431df5c7bb1b;1"
+data "Description" "he210a30cg221bg4f38gaa7agcd9b19a37c84;1"
+data "Conditions" "IsMeleeWeaponAttack()"
+data "StatsFunctorContext" "OnDamage"
+data "StatsFunctors" "IF(HasStatus('RYTLOCK_SOHOTHIN_THEMISTS_SURROUND',context.Target)):DealDamage(20d20,Slashing);IF(HasStatus('RYTLOCK_SOHOTHIN_THEMISTS_SURROUND',context.Target)):DealDamage(20d20,Piercing);IF(HasStatus('RYTLOCK_SOHOTHIN_THEMISTS_SURROUND',context.Target)):DealDamage(20d20,Bludgeoning);IF(HasStatus('RYTLOCK_SOHOTHIN_THEMISTS_SURROUND',context.Target)):DealDamage(20d20,Force)"
+data "Boosts" "IF(HasStatus('RYTLOCK_SOHOTHIN_THEMISTS_SURROUND',context.Target)):ReduceCriticalAttackThreshold(19)"
