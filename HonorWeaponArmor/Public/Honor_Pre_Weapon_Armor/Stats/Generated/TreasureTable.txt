@@ -6,11 +6,6 @@ object category "I_Iron_Legion_Perseverance _Gloves",1,0,0,0,0,0,0,0
 new treasuretable "TUT_Chest_Potions"
 CanMerge 1
 new subtable "1,1"
-object category "I_Tyrant_Rooney_Throwable_Tridents",1,0,0,0,0,0,0,0
-
-new treasuretable "TUT_Chest_Potions"
-CanMerge 1
-new subtable "1,1"
 object category "I_Gore_Legendary_Robe",1,0,0,0,0,0,0,0
 
 new treasuretable "TUT_Chest_Potions"
