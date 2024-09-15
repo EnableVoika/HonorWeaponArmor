@@ -52,7 +52,7 @@ using "_Hand_Magic_Metal"
 data "RootTemplate" "60ce3aab-a06c-4adb-b8ce-ccd680a3570d"
 data "ValueUUID" "f46eb019-edd0-4216-99df-9dae89a83ce7"
 data "Rarity" "Legendary"
-data "Boosts" "UnlockSpell(Dragon_Gore_Breath_Rest);SpellSaveDC(1)"
+data "Boosts" "Ability(Dexterity,1)"
 data "Unique" "1"
 
 
