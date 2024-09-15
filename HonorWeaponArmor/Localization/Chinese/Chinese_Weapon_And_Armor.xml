@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <contentList>
 
-    <!-- 手套：钢铁军团的意志 -->
+    <!-- 手套：寒霜领主手套 -->
     <content contentuid="h9df95b6eg096bg44f3g8571g3116d6c215c8" version="1">钢铁军团的毅志</content>
     <content contentuid="h9df95b6eg096bg44f3g8571g3116d6c215c8" version="2">寒霜领主的手套</content>
     <content contentuid="h3c0d4c0eg28afg46a0g8501gead82fca2814" version="1">钢铁军团战斗时使用的手套</content>
@@ -102,5 +102,9 @@
 	<!-- 烈阳之矛的披风 -->
 	<content contentuid="h401db8a0g1742g4672ga09dg156ea8b8572b" version="1">烈阳之矛的披风</content>
 	<content contentuid="hd91266f7g1ed9g4f42g9a08g07c4551bf5a6" version="1">挺破但看起来还不错的披风。</content>
+
+	<!-- 重击点数-1 -->
+	<content contentuid="h6be71878ge428g4703g97c8ge34dbb376157" version="1">精通重击</content>
+	<content contentuid="hee0f683agf6f7g40b6g91bdg7776504fd26e" version="1">重击所需要的点数减[1],可以累加。</content>
 
 </contentList>
