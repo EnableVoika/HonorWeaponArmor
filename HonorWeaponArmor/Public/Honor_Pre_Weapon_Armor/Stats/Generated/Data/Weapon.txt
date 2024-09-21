@@ -32,6 +32,7 @@ data "Unique" "1"
 data "Boosts" ""
 data "ValueOverride" "96521"
 data "PassivesOnEquip" "Proficiency_HandCrossbows;My_Reduce_Critical_Attack_Threshold"
+data "PassivesMainHand" ""
 
 new entry "Lie_Sha_You"
 type "Weapon"
@@ -46,6 +47,7 @@ data "Unique" "1"
 data "Boosts" ""
 data "ValueOverride" "96521"
 data "PassivesOnEquip" "Proficiency_HandCrossbows;My_Reduce_Critical_Attack_Threshold"
+data "PassivesMainHand" ""
 
 
 
