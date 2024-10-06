@@ -55,7 +55,6 @@ data "Rarity" "Legendary"
 data "Boosts" "Ability(Dexterity,1)"
 data "Unique" "1"
 
-
 new entry "Boots_Of_TheMists"
 type "Armor"
 using "_Foot_Magic_Metal"

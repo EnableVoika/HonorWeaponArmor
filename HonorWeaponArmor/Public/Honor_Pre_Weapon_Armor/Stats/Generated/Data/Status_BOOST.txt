@@ -66,3 +66,12 @@ data "RemoveEvents" "OnDamage"
 data "StatusGroups" "SG_Blinded;SG_Condition"
 data "ApplyEffect" "39044361-a2df-4730-90ca-ce37ddcbc482"
 data "StatusEffect" "d0c3a6f3-b954-4e8a-b9d2-8dfc66be24ab"
+
+new entry "GLOBEOFINVULNERABILITY_IGNORE_ENEMY"
+type "StatusData"
+data "StatusType" "BOOST"
+using "GLOBE_OF_INVULNERABILITY_AURA"
+data "AuraStatuses" "IF(not Tagged('INVISIBLE_HELPER') and not Enemy()):ApplyStatus(GLOBE_OF_INVULNERABILITY)"
+data "DisplayName" "h471aab23gcc5fg47a1g93feg1b16a7779066;1"
+data "Description" "h9722feb5ga747g46bdgbeffgcb6f2eabe1b1;1"
+

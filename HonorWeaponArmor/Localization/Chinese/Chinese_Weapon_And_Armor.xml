@@ -106,5 +106,17 @@
 	<!-- 重击点数-1 -->
 	<content contentuid="h6be71878ge428g4703g97c8ge34dbb376157" version="1">精通重击</content>
 	<content contentuid="hee0f683agf6f7g40b6g91bdg7776504fd26e" version="1">重击所需要的点数减[1],可以累加。</content>
+	
+	<!-- 戈尔的传奇术士法杖 -->
+	<content contentuid="hc1e56ba5gfb4cg49cag80eag0214627d9942" version="1">戈尔的传奇术士法杖</content>
+	<content contentuid="h39cefc27g5df2g42d5ga7b6gd43691728cb5" version="1">这是上一任传奇术士戈尔遗留下来的传奇法杖（明明是个火龙，为什么散发着这么强烈的寒意？）。</content>
+
+	<!-- 戈尔的传奇术士法杖专属法术 -->
+	<content contentuid="h47c96e8fg92a7g44b3g8d6fg3e82a6b25fcc" version="1">戈尔的防护结界</content>
+	<content contentuid="h8c60b9bdg2a00g4716g9419gbdb950aeb018" version="1">戈尔的灵魂在里面爆发，形成一道能够抵御任何伤害的保护屏障来保护法杖的继承者，持续3回合，同时排除一切敌对目标，他们将不受到戈尔的保护，这消耗了戈尔太多灵魂力量，所以需要长休一次恢复。</content>
+
+	<!-- 无专注、敌人不无敌，法术无效结界 -->
+	<content contentuid="h471aab23gcc5fg47a1g93feg1b16a7779066" version="1">防护结界</content>
+	<content contentuid="h9722feb5ga747g46bdgbeffgcb6f2eabe1b1" version="1">形成一道能够抵御任何伤害的保护屏障，持续3回合，同时排除一切敌对目标，意味着敌人依旧受到伤害</content>
 
 </contentList>

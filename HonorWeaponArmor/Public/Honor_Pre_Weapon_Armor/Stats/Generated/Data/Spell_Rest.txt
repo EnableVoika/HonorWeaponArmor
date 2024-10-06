@@ -6,8 +6,6 @@ data "SpellRoll" "not SavingThrow(Ability.Wisdom, SourceSpellDC()+9)"
 data "SpellSuccess" "ApplyStatus(HOLD_MONSTER_IRON,100,10)"
 data "Cooldown" "OncePerRest"
 
-
-
 new entry "TheMists_Rytlock_Sohothin_Rest"
 type "SpellData"
 data "SpellType" "Target"
@@ -33,3 +31,16 @@ data "PrepareEffect" "556fd141-698d-4c08-9322-ad155821260a"
 data "CastEffect" "0340b957-f9eb-45bc-9c6f-d4def37f5249"
 data "TargetEffect" "d16a93f4-ddb5-4175-9b3f-22eced19ff02"
 data "Cooldown" "OncePerRest"
+
+new entry "Target_GlobeOfInvulnerability_Gore_Ignore_Enemy_Rest"
+type "SpellData"
+using "Target_GlobeOfInvulnerability_Ignore_Enemy"
+data "AIFlags" "CanNotUse"
+data "TargetConditions" "Ally()"
+data "SpellProperties" "GROUND:Summon(edca6656-dc8c-410b-9f16-fcc02d5ed803, 3,Projectile_AiHelper_Silence,,,GLOBEOFINVULNERABILITY_IGNORE_ENEMY)"
+data "TargetRadius" "16"
+data "AreaRadius" "6"
+data "DisplayName" "h47c96e8fg92a7g44b3g8d6fg3e82a6b25fcc;1"
+data "Description" "h8c60b9bdg2a00g4716g9419gbdb950aeb018;1"
+data "Cooldown" "OncePerRest"
+

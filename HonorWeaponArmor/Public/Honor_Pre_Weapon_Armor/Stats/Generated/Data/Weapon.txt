@@ -16,8 +16,6 @@ data "Weapon Properties" "Finesse;Melee;Dippable;Magical;Versatile;Thrown;Heavy"
 data "DefaultBoosts" "WeaponProperty(Magical);WeaponEnchantment(1);CannotBeDisarmed();"
 data "PassivesOnEquip" "MAG_BansheeBless_Passive;Trident_Proficiency_Passive;Trident_Proficiency_Passive_3;Trident_Proficiency_Passive_4"
 
-
-
 new entry "Lie_Sha_Zuo"
 type "Weapon"
 using "WPN_HandCrossbow"
@@ -49,9 +47,6 @@ data "ValueOverride" "96521"
 data "PassivesOnEquip" "Proficiency_HandCrossbows;My_Reduce_Critical_Attack_Threshold"
 data "PassivesMainHand" ""
 
-
-
-
 new entry "Rytlock_Sohothin"
 type "Weapon"
 using "WPN_Greatsword_2"
@@ -67,3 +62,19 @@ data "BoostsOnEquipMainHand" "UnlockSpell(Target_PommelStrike);UnlockSpell(Targe
 data "PassivesOnEquip" "LOW_HouseOfGrief_Cultists_Sight;Rytlock_Sohothin_TheMists_Passive"
 data "StatusOnEquip" ""
 data "Unique" "1"
+
+new entry "Gore_Cold_IncreaseColdDamageOnCast_Staff"
+type "Weapon"
+using "WPN_Quarterstaff_1"
+data "RootTemplate" "22f45a93-046b-48ff-ba60-226c0bd3ce73"
+data "ItemGroup" ""
+data "ValueUUID" "d24c441f-7ebe-4229-8522-cf34c257ff20"
+data "Rarity" "Legendary"
+data "Damage" "1d4"
+data "WeaponRange" "160"
+data "DefaultBoosts" "WeaponEnchantment(3);WeaponProperty(Magical)"
+data "Boosts" ""
+data "BoostsOnEquipMainHand" "UnlockSpell(Zone_Cleave);UnlockSpell(TheWhite_Target_MainHandAttack);UnlockSpell(Target_GlobeOfInvulnerability_Gore_Ignore_Enemy_Rest)"
+data "PassivesOnEquip" ""
+data "Unique" "1"
+data "ValueOverride" "1145144"
