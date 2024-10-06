@@ -19,7 +19,7 @@ data "HitAnimationType" "MagicalNonDamage"
 data "PrepareEffect" "72a41c0a-6bb0-4063-946e-54000cf684c0"
 data "CastEffect" "79caa1cd-1a4d-4c9f-8401-76ce465dc7c6"
 data "UseCosts" "BonusActionPoint:1"
-data "SpellProperties" "IF(not HasStatus('MORE_SPELLSLOT',context.Source)):ApplyStatus(MORE_SPELLSLOT,100,-1)"
+data "SpellProperties" "RestoreResource(SpellSlot,4,1);RestoreResource(SpellSlot,4,2);RestoreResource(SpellSlot,4,3);RestoreResource(SpellSlot,4,4);RestoreResource(SpellSlot,3,5);RestoreResource(SpellSlot,3,6);RestoreResource(SpellSlot,3,7);RestoreResource(SpellSlot,2,8);RestoreResource(SpellSlot,1,9)"
 
 new entry "Shout_MoreSpellSlot_Rest"
 type "SpellData"

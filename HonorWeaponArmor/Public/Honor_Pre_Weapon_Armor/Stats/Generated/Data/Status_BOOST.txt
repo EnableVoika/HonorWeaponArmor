@@ -78,7 +78,7 @@ data "StatusType" "BOOST"
 data "DisplayName" "h1dd4fcd4gdf75g455ega0eag5cd3ded4b1a1;1"
 data "Description" "h54b48101g23eag4231ga0d2g6c2412772270;1"
 data "DescriptionParams" "2;2;1;1;1;1"
-data "Boosts" "ActionResource(SpellSlot,2,1);ActionResource(SpellSlot,3,2);ActionResource(SpellSlot,2,3);ActionResource(SpellSlot,2,4);ActionResource(SpellSlot,2,5);ActionResource(SpellSlot,2,6);ActionResource(SpellSlot,1,7);ActionResource(SpellSlot,1,8);ActionResource(SpellSlot,1,9)"
+data "Boosts" "RestoreResource(SpellSlot,2,1);RestoreResource(SpellSlot,3,2);RestoreResource(SpellSlot,2,3);RestoreResource(SpellSlot,2,4);RestoreResource(SpellSlot,2,5);RestoreResource(SpellSlot,2,6);RestoreResource(SpellSlot,1,7);RestoreResource(SpellSlot,1,8);RestoreResource(SpellSlot,1,9)"
 data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
 data "StatusGroups" "SG_RemoveOnRespec"
 
