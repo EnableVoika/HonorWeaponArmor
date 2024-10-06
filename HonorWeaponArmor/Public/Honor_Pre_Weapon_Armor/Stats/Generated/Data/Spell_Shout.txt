@@ -25,3 +25,4 @@ new entry "Shout_MoreSpellSlot_Rest"
 type "SpellData"
 using "Shout_MoreSpellSlot"
 data "Cooldown" "OncePerRest"
+
