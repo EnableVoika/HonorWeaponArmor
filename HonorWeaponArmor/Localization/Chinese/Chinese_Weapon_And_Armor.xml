@@ -119,4 +119,10 @@
 	<content contentuid="h471aab23gcc5fg47a1g93feg1b16a7779066" version="1">防护结界</content>
 	<content contentuid="h9722feb5ga747g46bdgbeffgcb6f2eabe1b1" version="1">形成一道能够抵御任何伤害的保护屏障，持续3回合，同时排除一切敌对目标，意味着敌人依旧受到伤害</content>
 
+	<!-- 提升法术槽 -->
+	<content contentuid="h7021b759g2485g40b6g9347g5418343d16de" version="1">获得法术环</content>
+	<content contentuid="hf27484bbg1a91g407dg838fgad67ea632709" version="1">作为传奇术士，你每一次长休之后，你都可以进行一次冥想使自己获得额外的法术环位。</content>
+	<content contentuid="h1dd4fcd4gdf75g455ega0eag5cd3ded4b1a1" version="1">冥想</content>
+	<content contentuid="h54b48101g23eag4231ga0d2g6c2412772270" version="1">获得[1]个1环法术位，[2]个2环法术位，[3]个3环法术位，[4]个4环法术位，[5]个5环法术位，[6]个6环法术位。</content>
+
 </contentList>
