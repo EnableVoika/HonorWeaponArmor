@@ -125,4 +125,12 @@
 	<content contentuid="h1dd4fcd4gdf75g455ega0eag5cd3ded4b1a1" version="1">冥想</content>
 	<content contentuid="h54b48101g23eag4231ga0d2g6c2412772270" version="1">获得[1]个1环法术位，[2]个2环法术位，[3]个3环法术位，[4]个4环法术位，[5]个5环法术位，[6]个6环法术位。</content>
 
+	<!-- 戈尔的龙之吐息 -->
+	<content contentuid="h236b0f0fgbc00g4c29gb58dge7478b359cad" version="1">戈尔的龙之吐息</content>
+	<content contentuid="hd0def2b0gbe3cg40cbgbdb4gf47d82611188" version="1">戈尔的灵魂在里面凝聚火龙之息，准备接下来给予敌人难以治愈的伤害，伤害远超地狱之火。但威力太过巨大，所以需要长休一次恢复</content>
+	<content contentuid="hd0def2b0gbe3cg40cbgbdb4gf47d82611188" version="2">戈尔的灵魂在里面凝聚火龙之息，准备接下来给予敌人难以治愈的伤害，伤害远超地狱之火。</content>
+	<content contentuid="h63dd26ffge5adg423dg92d8g2ac400afa3fe" version="1">龙息十分强大</content>
+
+	<content contentuid="hc3fd9406geecbg4f58gb1c4g9c9c42e9670c" version="1">你的武器攻击还会造成[1]和[2]</content>
+
 </contentList>
