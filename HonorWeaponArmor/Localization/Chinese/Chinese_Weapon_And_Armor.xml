@@ -133,4 +133,10 @@
 
 	<content contentuid="hc3fd9406geecbg4f58gb1c4g9c9c42e9670c" version="1">你的武器攻击还会造成[1]和[2]</content>
 
+	<!-- 超级虚假生命\血祭 -->
+	<content contentuid="hee8c2768g97c3g40f2g924fg00f00cd4e62d" version="1">血祭</content>
+	<content contentuid="h98b1beffg5487g48b8ga6e8ge8a6c1c2f22b" version="1">爆发身体的潜能，获得[1]，[2]回合之后你会死去。</content>
+	<content contentuid="hcfb5e2c1gb85cg4511g99e7g1217e524b81e" version="1">血祭代价</content>
+	<content contentuid="h0c277732gd62ag4eb8ga40fge079cb0f67ae" version="1">你会立即死亡。</content>
+
 </contentList>

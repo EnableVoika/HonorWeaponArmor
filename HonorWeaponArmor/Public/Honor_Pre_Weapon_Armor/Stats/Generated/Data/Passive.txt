@@ -22,3 +22,28 @@ type "PassiveData"
 using "MAG_OfArchery_Gloves_Passive"
 data "DescriptionParams" "4"
 data "Boosts" "Proficiency(Longbows);Proficiency(Shortbows);IF(IsRangedWeaponAttack()):CharacterWeaponDamage(4)"
+
+new entry "ARM_MagicalPlate_1_Passive"
+type "PassiveData"
+using "ARM_MagicalPlate_1_Passive"
+data "DescriptionParams" "5"
+data "Boosts" "DamageReduction(All, Flat, 5)"
+
+new entry "ARM_MagicalPlate_2_Passive"
+type "PassiveData"
+using "ARM_MagicalPlate_2_Passive"
+data "DescriptionParams" "7"
+data "Boosts" "DamageReduction(All, Flat, 7)"
+
+new entry "DamageReduction_Dragon"
+type "PassiveData"
+using "DamageReduction_Dragon"
+data "Icon" "PassiveFeature_MultiattackDefense"
+data "Boosts" "DamageReduction(All, Flat, 5)"
+
+new entry "DamageReduction_Dragon_Tactician"
+type "PassiveData"
+using "DamageReduction_Dragon_Tactician"
+data "DescriptionParams" "4"
+data "Boosts" "DamageReduction(All, Flat, 8)"
+
