@@ -22,7 +22,7 @@ type "PassiveData"
 data "DisplayName" "h72144afdg340ag420ega992gb89225eacf10;1"
 data "Description" "h483a0fe0g4fffg43edg9f87g87c80b0dc254;1"
 data "DescriptionParams" "5"
-data "Boosts" "ActionResource(Movement,3,0)"
+data "Boosts" "ActionResource(Movement,5,0)"
 
 new entry "MAG_Infernal_Metal_AttackBonus_Cold_Passive"
 type "PassiveData"

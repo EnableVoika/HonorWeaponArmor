@@ -139,4 +139,7 @@
 	<content contentuid="hcfb5e2c1gb85cg4511g99e7g1217e524b81e" version="1">血祭代价</content>
 	<content contentuid="h0c277732gd62ag4eb8ga40fge079cb0f67ae" version="1">你会立即死亡。</content>
 
+	<content contentuid="h5fff8423gfb65g4b6eg8a1cg5415d349b0bc" version="1">武器增益</content>
+	<content contentuid="hbff1f34fg5dc1g4d41g81b6ge0f71de00bc3" version="1">&lt;b&gt;&lt;LSTag&gt;(1d4+[1])&lt;/LSTag&gt;&lt;/b&gt;调整值追加到&lt;b&gt;&lt;LSTag Tooltip=&quot;test&quot;&gt;武器、戏法、法术伤害上骰。&lt;/LSTag&gt;&lt;/b&gt;&lt;br&gt;体质+2, 武器和法术&lt;b&gt;&lt;LSTag Tooltip=&quot;test&quot;&gt;攻击骰&lt;/LSTag&gt;&lt;/b&gt;结果+2。</content>
+
 </contentList>

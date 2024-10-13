@@ -47,3 +47,12 @@ using "DamageReduction_Dragon_Tactician"
 data "DescriptionParams" "4"
 data "Boosts" "DamageReduction(All, Flat, 8)"
 
+new entry "FavoriteWeapons2"
+type "PassiveData"
+data "DisplayName" "h5fff8423gfb65g4b6eg8a1cg5415d349b0bc;1"
+data "Description" "hbff1f34fg5dc1g4d41g81b6ge0f71de00bc3;1"
+data "DescriptionParams" "5"
+data "Icon" "Spell_Conjuration_GuardianOfFaith"
+data "Properties" "Highlighted"
+data "Boosts" "DamageBonus(1d4+5);Ability(Constitution,+2);RollBonus(Attack,2);SpellSaveDC(2);RollBonus(MeleeSpellAttack,2);RollBonus(RangedSpellAttack,2)"
+

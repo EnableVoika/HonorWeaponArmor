@@ -45,7 +45,7 @@
 						</node>
 					</children>
 				</node>
-				<!-- 钢铁军团的意志手套 -->
+				<!-- 寒霜领主手套 -->
 				<node id="GameObjects">
 					<attribute id="DisplayName" type="TranslatedString" handle="h9df95b6eg096bg44f3g8571g3116d6c215c8" version="2" />
 					<attribute id="Description" type="TranslatedString" handle="h3c0d4c0eg28afg46a0g8501gead82fca2814" version="2" />
