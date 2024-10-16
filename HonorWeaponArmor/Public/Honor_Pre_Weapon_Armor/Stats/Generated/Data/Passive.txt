@@ -64,5 +64,5 @@ data "Description" "hb96329a0gc2c4g4db6g9656gd8c3b537d5a8;1"
 data "DescriptionParams" "5;5;3"
 data "Icon" "Spell_Conjuration_GuardianOfFaith"
 data "Properties" "IsHidden"
-data "Boosts" "AC(4);IF(not HasStatus('FAVORITEWEAPONS3')):ApplyStatus(FAVORITEWEAPONS3,100,-1)"
+data "Boosts" "AC(4);IF(not HasStatus('FAVORITEWEAPONS_STATUS')):ApplyStatus(FAVORITEWEAPONS_STATUS,100,-1)"
 
