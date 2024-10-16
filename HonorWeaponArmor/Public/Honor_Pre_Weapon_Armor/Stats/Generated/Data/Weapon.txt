@@ -15,6 +15,7 @@ data "WeaponFunctors" "ApplyStatus(FRIGHTENED, 100, 2,,,,not SavingThrow(Ability
 data "Weapon Properties" "Finesse;Melee;Dippable;Magical;Versatile;Thrown;Heavy"
 data "DefaultBoosts" "WeaponProperty(Magical);WeaponEnchantment(1);CannotBeDisarmed();"
 data "PassivesOnEquip" "MAG_BansheeBless_Passive;Trident_Proficiency_Passive;Trident_Proficiency_Passive_3;Trident_Proficiency_Passive_4"
+data "UseCosts" ""
 
 new entry "Lie_Sha_Zuo"
 type "Weapon"
@@ -31,6 +32,7 @@ data "Boosts" ""
 data "ValueOverride" "96521"
 data "PassivesOnEquip" "Proficiency_HandCrossbows;My_Reduce_Critical_Attack_Threshold"
 data "PassivesMainHand" ""
+data "UseCosts" ""
 
 new entry "Lie_Sha_You"
 type "Weapon"
@@ -46,6 +48,7 @@ data "Boosts" ""
 data "ValueOverride" "96521"
 data "PassivesOnEquip" "Proficiency_HandCrossbows;My_Reduce_Critical_Attack_Threshold"
 data "PassivesMainHand" ""
+data "UseCosts" ""
 
 new entry "Rytlock_Sohothin"
 type "Weapon"
@@ -62,6 +65,7 @@ data "BoostsOnEquipMainHand" "UnlockSpell(Target_PommelStrike);UnlockSpell(Targe
 data "PassivesOnEquip" "LOW_HouseOfGrief_Cultists_Sight;Rytlock_Sohothin_TheMists_Passive"
 data "StatusOnEquip" ""
 data "Unique" "1"
+data "UseCosts" ""
 
 new entry "Gore_Cold_IncreaseColdDamageOnCast_Staff"
 type "Weapon"
@@ -78,3 +82,5 @@ data "BoostsOnEquipMainHand" "UnlockSpell(Zone_Cleave);UnlockSpell(TheWhite_Targ
 data "PassivesOnEquip" ""
 data "Unique" "1"
 data "ValueOverride" "1145144"
+data "UseCosts" ""
+

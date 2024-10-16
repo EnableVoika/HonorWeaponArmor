@@ -11,7 +11,6 @@ data "Description" "hb02615a5g5ea2g4f7aga32fg7bee861ac9f8;1"
 data "DescriptionParams" "10d20"
 data "Boosts" ""
 
-
 new entry "Trident_Proficiency_Passive_3"
 type "PassiveData"
 data "DisplayName" "h0e700354g78c3g4f89gafd8g1bc30560adbf;1"

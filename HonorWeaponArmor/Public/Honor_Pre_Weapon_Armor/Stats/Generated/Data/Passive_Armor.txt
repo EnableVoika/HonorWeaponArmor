@@ -42,7 +42,7 @@ data "DescriptionParams" "DealDamage(1d4,Psychic)"
 data "Boosts" "IF(IsMeleeUnarmedAttack() and HasStatus('MAG_INCREASED_DAMAGE_COLD',context.Target)):DamageBonus(1d4, Psychic)"
 data "StatsFunctorContext" "OnDamage"
 data "Conditions" "IsMeleeUnarmedAttack() and HasStatus('MAG_INCREASED_DAMAGE_COLD',context.Target)"
-data "StatsFunctors" "ApplyStatus(CHILLED, 100, 1)"
+data "StatsFunctors" "IF(not HasStatus('CHILLED',context.Target)):ApplyStatus(CHILLED, 100, 2);IF(not HasStatus('HB_VULNERABLE_PSYCHIC',context.Target)):ApplyStatus(HB_VULNERABLE_PSYCHIC, 100, 2)"
 
 new entry "Gore_Legendary_Robe_Heat_Fire_Robe_Passive"
 type "PassiveData"
