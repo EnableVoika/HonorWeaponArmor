@@ -37,3 +37,9 @@ new treasuretable "TUT_Chest_Potions"
 CanMerge 1
 new subtable "1,1"
 object category "I_HB_Sunspears_Cloak",1,0,0,0,0,0,0,0
+
+new treasuretable "TUT_Chest_Potions"
+CanMerge 1
+new subtable "1,1"
+object category "I_ARM_Ray_Barbarian",1,0,0,0,0,0,0,0
+

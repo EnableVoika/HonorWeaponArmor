@@ -91,3 +91,8 @@ data "Rarity" "Legendary"
 data "PassivesOnEquip" "MAG_WYR_Orin_Bhaalist_Dagger_ImprovedCritical_Passive_2;MAG_Legendary_ArcaneEnchantment_Passive"
 data "Unique" "1"
 data "UseCosts" ""
+
+new entry "ARM_Ray_Barbarian"
+type "Armor"
+using "ARM_Robe_Body"
+data "RootTemplate" "cb0d8025-a48e-4cf8-8034-21e5e4ec70e1"

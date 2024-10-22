@@ -40,7 +40,7 @@
 
     <!-- 啤酒馆暴动罪魁祸首 -->
     <content contentuid="h271a75a9ga89bg4040gae98ga696d7e2af76" version="1">啤酒馆暴动罪魁祸首</content>
-    <content contentuid="h71de3506g087fg4ae4g9742gbd8ce3a1d01a" version="1">你的力量属性提升至27，并且获得酒馆殴斗者，代价就是可能觉得鼻子下面痒痒的。（好像要长胡子？）</content>
+    <content contentuid="h71de3506g087fg4ae4g9742gbd8ce3a1d01a" version="1">你的力量属性提升至[1]，代价就是可能觉得鼻子下面痒痒的。（好像要长胡子？）</content>
 
     <!-- 千里奔袭 -->
     <content contentuid="h72144afdg340ag420ega992gb89225eacf10" version="1">千里奔袭</content>
@@ -151,6 +151,9 @@
 	<!-- 眷顾 -->
 	<content contentuid="h31296af6g2029g47e1g9d73gf447ec5ab3a5" version="1">眷顾</content>
 	<content contentuid="h42494e39g5393g4061g963agb62d50b60130" version="1">获得额外的气点和幸运点以及卓越骰</content>
-	
-	
+
+	<!-- 野蛮人通用衣服 -->
+	<content contentuid="h0952a1c1g8e1ag422cg83c4g6bfb8cbb2234" version="1">雷云的套装</content>
+	<content contentuid="h8755fd10g9ec7g4ca7gb417g8e3b0dce264a" version="1">雷云床上会获得解锁动作。</content>
+
 </contentList>

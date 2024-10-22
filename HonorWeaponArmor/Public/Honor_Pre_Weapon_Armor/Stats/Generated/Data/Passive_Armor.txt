@@ -15,6 +15,7 @@ new entry "Pi_Jiu_Guan_Bao_Dong_Zui_Kui_Huo_Shou"
 type "PassiveData"
 data "DisplayName" "h271a75a9ga89bg4040gae98ga696d7e2af76;1"
 data "Description" "h71de3506g087fg4ae4g9742gbd8ce3a1d01a;1"
+data "DescriptionParams" "21"
 data "Boosts" "AbilityOverrideMinimum(Strength,21)"
 
 new entry "Qian_Li_Ben_Xi"
