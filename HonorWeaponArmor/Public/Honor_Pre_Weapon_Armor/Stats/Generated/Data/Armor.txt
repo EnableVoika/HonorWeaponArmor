@@ -96,6 +96,7 @@ new entry "ARM_Ray_Barbarian"
 type "Armor"
 using "ARM_Robe_Body"
 data "RootTemplate" "cb0d8025-a48e-4cf8-8034-21e5e4ec70e1"
+data "UseCosts" ""
 
 new entry "MAG_Gortash_Cloth_Jady"
 type "Armor"
@@ -104,4 +105,5 @@ data "RootTemplate" "4e43fb36-3605-47ae-a1d6-89884e9bb8d6"
 data "ValueUUID" "240eb257-ef20-4877-89bd-6956b4b7c41a"
 data "Rarity" "Rare"
 data "PassivesOnEquip" ""
+data "UseCosts" ""
 
