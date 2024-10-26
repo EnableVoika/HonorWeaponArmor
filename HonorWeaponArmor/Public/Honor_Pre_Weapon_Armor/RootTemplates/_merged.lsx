@@ -1866,6 +1866,18 @@
 						</node>
 					</children>
 				</node>
+				<!-- 戈塔什的服装外观 -->
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="h80eebfc9gbaa6g4f56gb8b0g5b77aac47074" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hfe384745g316ag42c7g9fd4g2450aec39338" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="4e43fb36-3605-47ae-a1d6-89884e9bb8d6" />
+					<attribute id="Name" type="LSString" value="MAG_Gortash_Cloth_Jady" />
+					<attribute id="ParentTemplateId" type="FixedString" value="4ec2c054-daad-4ab5-94a8-c2103b7387df" />
+					<attribute id="Stats" type="FixedString" value="MAG_Gortash_Cloth_Jady" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
+				</node>
 			</children>
 		</node>
 	</region>

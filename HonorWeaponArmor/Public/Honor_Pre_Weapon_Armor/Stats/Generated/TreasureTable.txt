@@ -43,3 +43,8 @@ CanMerge 1
 new subtable "1,1"
 object category "I_ARM_Ray_Barbarian",1,0,0,0,0,0,0,0
 
+new treasuretable "TUT_Chest_Potions"
+CanMerge 1
+new subtable "1,1"
+object category "I_MAG_Gortash_Cloth_Jady",1,0,0,0,0,0,0,0
+
