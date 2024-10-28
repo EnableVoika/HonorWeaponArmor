@@ -8,3 +8,11 @@ data "TooltipStatusApply" "ApplyStatus(GLOBEOFINVULNERABILITY_IGNORE_ENEMY,100,6
 data "UseCosts" ""
 data "SpellFlags" "HasVerbalComponent;HasSomaticComponent;IsSpell"
 
+new entry "TheWhite_Target_MainHandAttack"
+type "SpellData"
+using "Target_MainHandAttack"
+data "DisplayName" "hab8d74e1g9c12g49deg929eg55654debcfb3;2"
+data "Description" "he72982c0g40f9g4aacg9287gf6f2823654ca;2"
+data "UseCosts" "ActionPoint:1"
+data "DualWieldingUseCosts" "BonusActionPoint:0"
+

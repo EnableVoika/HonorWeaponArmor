@@ -160,4 +160,12 @@
 	<content contentuid="hfe384745g316ag42c7g9fd4g2450aec39338" version="1">SEXRUA</content>
 	<content contentuid="h80eebfc9gbaa6g4f56gb8b0g5b77aac47074" version="1">性感小橘狼在线摇尾巴。</content>
 
+    	<!-- 强化主手攻击，副手不消耗附赠动作 -->
+	<content contentuid="hab8d74e1g9c12g49deg929eg55654debcfb3" version="1">主手攻击</content>
+	<content contentuid="hab8d74e1g9c12g49deg929eg55654debcfb3" version="2">敏捷攻击</content>
+	<content contentuid="he72982c0g40f9g4aacg9287gf6f2823654ca" version="1">你精通武器的使用，使用装备的武器发动一次近战攻击</content>
+	<content contentuid="he72982c0g40f9g4aacg9287gf6f2823654ca" version="2">你的主手攻击不会消耗附赠动作</content>
+    <content contentuid="h8b7ac829gdbe7g4c1dg9d1bg39debeebb2ad" version="1">敏捷攻击：远程</content>
+    <content contentuid="ha2ce09f7g4bf3g4e17g9d8ag94bd5ce86588" version="1">你的主手攻击不会消耗附赠动作。</content>
+
 </contentList>

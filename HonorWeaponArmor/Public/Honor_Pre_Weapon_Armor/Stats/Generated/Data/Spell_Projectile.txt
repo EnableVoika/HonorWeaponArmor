@@ -14,3 +14,12 @@ data "TooltipDamageList" "DealDamage(50d8,Fire,,,,ad727a13-c6f0-4b5b-aefd-aac79c
 data "UseCosts" "ActionPoint:1"
 data "SpellFlags" "HasVerbalComponent;HasSomaticComponent;IsSpell;HasHighGroundRangeExtension;RangeIgnoreVerticalThreshold;IsHarmful;CanAreaDamageEvade"
 data "MemoryCost" ""
+
+new entry "Projectile_MainHandAttack_NoBonusAction"
+type "SpellData"
+data "SpellType" "Projectile"
+using "Projectile_MainHandAttack"
+data "DisplayName" "h8b7ac829gdbe7g4c1dg9d1bg39debeebb2ad;1"
+data "Description" "ha2ce09f7g4bf3g4e17g9d8ag94bd5ce86588;1"
+data "DualWieldingUseCosts" "BonusActionPoint:0"
+
