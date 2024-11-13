@@ -1601,11 +1601,11 @@
 					<attribute id="Icon" type="FixedString" value="Item_ARM_Barbarian" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="MapKey" type="FixedString" value="cb0d8025-a48e-4cf8-8034-21e5e4ec70e1" />
-					<attribute id="Name" type="LSString" value="ARM_Barbarian" />
+					<attribute id="Name" type="LSString" value="ARM_Barbarian_Custom" />
 					<attribute id="ParentTemplateId" type="FixedString" value="686a3c43-b494-4fcd-bda7-acb399cdee5a" />
 					<attribute id="PhysicsTemplate" type="FixedString" value="37e69271-ab9d-330e-6daf-049a270ac76a" />
 					<attribute id="ReadinessFlags" type="uint32" value="144" />
-					<attribute id="Stats" type="FixedString" value="ARM_Barbarian" />
+					<attribute id="Stats" type="FixedString" value="ARM_Barbarian_Custom" />
 					<attribute id="Type" type="FixedString" value="item" />
 					<attribute id="VisualTemplate" type="FixedString" value="423cf5a5-a59d-2929-f35e-626309e68f1f" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
