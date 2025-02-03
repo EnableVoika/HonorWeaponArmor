@@ -53,12 +53,12 @@
 					<attribute id="LevelName" type="FixedString" value="" />
 					<!-- 对应Armor.txt里的 ValueUUID -->
 					<attribute id="MapKey" type="FixedString" value="2e60d150-672f-45d9-a37a-d7107dce4d6e" />
-					<attribute id="Name" type="LSString" value="Iron_Legion_Perseverance _Gloves" />
+					<attribute id="Name" type="LSString" value="Iron_Legion_Perseverance_Gloves" />
 					<attribute id="ParentTemplateId" type="FixedString" value="22413938-1bde-4f9b-b3c4-30b29e89e887" />
 					<attribute id="VisualTemplate" type="FixedString" value="c357af10-1b5b-8f40-d06e-1ba5211c9557" />
 					<attribute id="PhysicsTemplate" type="FixedString" value="c270202d-a0e6-83b5-e65a-3dc994c13f6d" />
 					<!-- 这里写错了，但无论如何都不要再改了，这个id被写进存档里了 -->
-					<attribute id="Stats" type="FixedString" value="Iron_Legion_Perseverance _Gloves" />
+					<attribute id="Stats" type="FixedString" value="Iron_Legion_Perseverance_Gloves" />
 					<attribute id="Type" type="FixedString" value="item" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
 					<children>
